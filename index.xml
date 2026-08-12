@@ -14,98 +14,98 @@
       <link>https://mookjsi.github.io/posts/paper-review-timeformer/</link>
       <pubDate>Mon, 01 Dec 2025 00:00:00 +0000</pubDate>
       <guid>https://mookjsi.github.io/posts/paper-review-timeformer/</guid>
-      <description>TimeFormer 논문 리뷰입니다. 이 논문은 시간적 관계(Temporal Relationships)를 학습하여 기존 3DGS의 한계를 극복하고, 추론 비용 증가 없이 고품질 렌더링을 가능하게 하는 새로운 방법론을 제안합니다.</description>
+      <description>YBIGTA 12/01 DS Session Presentation</description>
     </item>
     <item>
       <title>Diffusion Models: From VAEs to DDPM Derivation</title>
       <link>https://mookjsi.github.io/posts/diffusion/</link>
       <pubDate>Tue, 25 Nov 2025 00:00:00 +0000</pubDate>
       <guid>https://mookjsi.github.io/posts/diffusion/</guid>
-      <description>A comprehensive breakdown of Diffusion Models, starting from the limitations of Hierarchical VAEs, covering the thermodynamics inspiration, and detailing the full mathematical derivation of the ELBO and the simplified noise-prediction loss used in DDPM. This post is based on a presentation I gave at a YBIGTA (Big data society in Yonsei) session.</description>
+      <description>A presentation I gave at a YBIGTA. Mathematical derivation of DGM</description>
     </item>
     <item>
       <title>Flamingo: a Visual Language Model for Few-Shot Learning</title>
       <link>https://mookjsi.github.io/posts/paper-review-flamingo/</link>
       <pubDate>Tue, 25 Nov 2025 00:00:00 +0000</pubDate>
       <guid>https://mookjsi.github.io/posts/paper-review-flamingo/</guid>
-      <description>DeepMind의 Flamingo 논문 리뷰.</description>
+      <description>YBIGTA DS Session 11/25 Presentation</description>
     </item>
     <item>
       <title>Generative Adversarial Nets (GAN) 논문 리뷰</title>
       <link>https://mookjsi.github.io/posts/paper-review-gan/</link>
       <pubDate>Tue, 11 Nov 2025 00:00:00 +0000</pubDate>
       <guid>https://mookjsi.github.io/posts/paper-review-gan/</guid>
-      <description>NIPS 2014에서 발표된 &amp;lsquo;Generative Adversarial Nets&amp;rsquo; (GAN) 논문에 대한 리뷰입니다.</description>
+      <description>YBIGTA DS Session 11/11 Presentation</description>
     </item>
     <item>
       <title>SimCLR 논문 리뷰</title>
       <link>https://mookjsi.github.io/posts/paper-review-simclr/</link>
       <pubDate>Tue, 28 Oct 2025 00:00:00 +0000</pubDate>
       <guid>https://mookjsi.github.io/posts/paper-review-simclr/</guid>
-      <description>ICML 2020에서 발표된 &amp;lsquo;A Simple Framework for Contrastive Learning of Visual Representations&amp;rsquo; 논문에 대한 심층 리뷰입니다. 이 포스트에서는 레이블 없는 데이터로부터 컴퓨터가 스스로 이미지의 특징을 학습하는 자기 지도 학습(Self-Supervised Learning) 방법론인 SimCLR의 핵심 아이디어, 프레임워크 구성 요소, 그리고 실험 결과를 쉽게 풀어 설명합니다.</description>
+      <description>YBIGTA 10/28 DS Session Presentation</description>
     </item>
     <item>
       <title>Segment Anything 논문 리뷰</title>
       <link>https://mookjsi.github.io/posts/paper-review-sam/</link>
       <pubDate>Tue, 30 Sep 2025 00:00:00 +0000</pubDate>
       <guid>https://mookjsi.github.io/posts/paper-review-sam/</guid>
-      <description>Meta AI의 &amp;lsquo;Segment Anything&amp;rsquo; 논문에 대한 심층 리뷰입니다. 이 포스트는 이미지 분할(Image Segmentation) 분야에 &amp;lsquo;파운데이션 모델&amp;rsquo;이라는 새로운 패러다임을 제시한 SAM(Segment Anything Model)의 핵심 개념, 즉 프롬프트 기반 분할 과업, 효율적인 모델 구조, 그리고 11억 개의 마스크를 포함하는 SA-1B 데이터셋 구축을 위한 데이터 엔진에 대해 상세히 분석합니다.</description>
+      <description>YBIGTA DS Session 09/10 Presentation</description>
     </item>
     <item>
       <title>DETR: End-to-End Object Detection with Transformers</title>
       <link>https://mookjsi.github.io/posts/paper-review-detr/</link>
       <pubDate>Tue, 23 Sep 2025 00:00:00 +0000</pubDate>
       <guid>https://mookjsi.github.io/posts/paper-review-detr/</guid>
-      <description>&amp;lsquo;End-to-End Object Detection with Transformers&amp;rsquo; 논문 심층 리뷰</description>
+      <description>YBIGTA DS 09/23 Session Presentation</description>
     </item>
     <item>
       <title>ResNet - 더 깊은 신경망을 위한 잔차 학습</title>
       <link>https://mookjsi.github.io/posts/paper-review-resnet/</link>
       <pubDate>Tue, 16 Sep 2025 00:00:00 +0000</pubDate>
       <guid>https://mookjsi.github.io/posts/paper-review-resnet/</guid>
-      <description>CVPR 2016에서 발표된 &amp;lsquo;Deep Residual Learning for Image Recognition&amp;rsquo; 논문에 대한 심층 리뷰입니다. 이 포스트에서는 딥러닝의 &amp;lsquo;성능 저하(Degradation)&amp;rsquo; 문제를 해결한 잔차 학습(Residual Learning)의 핵심 개념, 네트워크 구조, 그리고 실험 결과를 알기 쉽게 분석합니다.</description>
+      <description>YBIGTA 09/16 DS Session Presentation</description>
     </item>
     <item>
       <title>Advanced Policy Gradient Methods: TRPO &amp; PPO</title>
       <link>https://mookjsi.github.io/posts/trpoppo/</link>
       <pubDate>Tue, 26 Aug 2025 00:00:00 +0000</pubDate>
       <guid>https://mookjsi.github.io/posts/trpoppo/</guid>
-      <description>Session notes that explain TRPO&amp;rsquo;s trust region and PPO&amp;rsquo;s clipping with intuition and equations, and summarize limitations and practical applications.</description>
+      <description>YBIGTA 08/25 Summer Session Presentation</description>
     </item>
     <item>
       <title>Promptriever - Instruction-Trained Retrievers</title>
       <link>https://mookjsi.github.io/posts/paper-review-promptriever/</link>
       <pubDate>Thu, 12 Jun 2025 00:00:00 +0000</pubDate>
       <guid>https://mookjsi.github.io/posts/paper-review-promptriever/</guid>
-      <description>A review of the ICLR 2025 paper, Promptriever. In this post, I break down the core concepts, training methods, and results of a new retriever that&amp;rsquo;s trained to follow natural language instructions.</description>
+      <description>06/12 ITML Lab Meeting</description>
     </item>
     <item>
       <title>Simplifying Neural Nets by Discovering Flat Minima</title>
       <link>https://mookjsi.github.io/posts/paper-review-flatminima/</link>
       <pubDate>Thu, 15 May 2025 00:00:00 +0000</pubDate>
       <guid>https://mookjsi.github.io/posts/paper-review-flatminima/</guid>
-      <description>A detailed review of the classic 1994 paper by Hochreiter &amp;amp; Schmidhuber, &amp;lsquo;Simplifying Neural Nets by Discovering Flat Minima&amp;rsquo;. In this post, I break down the core concepts, the proposed algorithm, and the experimental results that demonstrate why seeking flat minima leads to better generalization.</description>
+      <description>05/15 ITML Lab meeting</description>
     </item>
     <item>
       <title>Max-Margin Token Selection in Attention Mechanism</title>
       <link>https://mookjsi.github.io/posts/paper-review-maxtoken/</link>
       <pubDate>Wed, 30 Apr 2025 00:00:00 +0000</pubDate>
       <guid>https://mookjsi.github.io/posts/paper-review-maxtoken/</guid>
-      <description>This post reviews the NeurIPS 2025 paper &amp;lsquo;Max-Margin Token Selection in Attention Mechanism.&amp;rsquo; The paper analyzes the theoretical foundations and implicit bias of the attention mechanism, explaining why attention focuses on important tokens and how this process is connected to margin maximization in SVMs.</description>
+      <description>04/30 ITML Lab Meeting</description>
     </item>
     <item>
       <title>Stochastic Approximation to Contrastive Learning</title>
       <link>https://mookjsi.github.io/posts/paper-review-stochastic/</link>
       <pubDate>Wed, 05 Mar 2025 00:00:00 +0000</pubDate>
       <guid>https://mookjsi.github.io/posts/paper-review-stochastic/</guid>
-      <description>This post reviews &amp;lsquo;Stochastic Approximation to Contrastive Learning,&amp;rsquo; a paper submitted to ICLR 2025. While ultimately rejected, the paper proposed an interesting approach to make contrastive learning more efficient. I&amp;rsquo;ll break down its core ideas, the community&amp;rsquo;s feedback, and why it fell short.</description>
+      <description>ICLR 2025 Paper Review</description>
     </item>
     <item>
       <title>When to Retrieve?</title>
       <link>https://mookjsi.github.io/posts/paper-review-whentoretrieve/</link>
       <pubDate>Fri, 28 Feb 2025 00:00:00 +0000</pubDate>
       <guid>https://mookjsi.github.io/posts/paper-review-whentoretrieve/</guid>
-      <description>This post reviews &amp;lsquo;When to Retrieve?&amp;rsquo;, a paper submitted to ACL 2024 but ultimately rejected. I summarize its core ideas, the community&amp;rsquo;s feedback, and the reasons it was not accepted.</description>
+      <description>ACL 2024 Paper Review</description>
     </item>
     <item>
       <title>About Me</title>

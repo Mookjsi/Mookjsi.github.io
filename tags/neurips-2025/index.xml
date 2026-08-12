@@ -14,7 +14,7 @@
       <link>https://mookjsi.github.io/posts/paper-review-maxtoken/</link>
       <pubDate>Wed, 30 Apr 2025 00:00:00 +0000</pubDate>
       <guid>https://mookjsi.github.io/posts/paper-review-maxtoken/</guid>
-      <description>This post reviews the NeurIPS 2025 paper &amp;lsquo;Max-Margin Token Selection in Attention Mechanism.&amp;rsquo; The paper analyzes the theoretical foundations and implicit bias of the attention mechanism, explaining why attention focuses on important tokens and how this process is connected to margin maximization in SVMs.</description>
+      <description>04/30 ITML Lab Meeting</description>
     </item>
   </channel>
 </rss>

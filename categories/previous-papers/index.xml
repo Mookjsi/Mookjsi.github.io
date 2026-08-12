@@ -14,49 +14,49 @@
       <link>https://mookjsi.github.io/posts/paper-review-flamingo/</link>
       <pubDate>Tue, 25 Nov 2025 00:00:00 +0000</pubDate>
       <guid>https://mookjsi.github.io/posts/paper-review-flamingo/</guid>
-      <description>DeepMind의 Flamingo 논문 리뷰.</description>
+      <description>YBIGTA DS Session 11/25 Presentation</description>
     </item>
     <item>
       <title>Generative Adversarial Nets (GAN) 논문 리뷰</title>
       <link>https://mookjsi.github.io/posts/paper-review-gan/</link>
       <pubDate>Tue, 11 Nov 2025 00:00:00 +0000</pubDate>
       <guid>https://mookjsi.github.io/posts/paper-review-gan/</guid>
-      <description>NIPS 2014에서 발표된 &amp;lsquo;Generative Adversarial Nets&amp;rsquo; (GAN) 논문에 대한 리뷰입니다.</description>
+      <description>YBIGTA DS Session 11/11 Presentation</description>
     </item>
     <item>
       <title>SimCLR 논문 리뷰</title>
       <link>https://mookjsi.github.io/posts/paper-review-simclr/</link>
       <pubDate>Tue, 28 Oct 2025 00:00:00 +0000</pubDate>
       <guid>https://mookjsi.github.io/posts/paper-review-simclr/</guid>
-      <description>ICML 2020에서 발표된 &amp;lsquo;A Simple Framework for Contrastive Learning of Visual Representations&amp;rsquo; 논문에 대한 심층 리뷰입니다. 이 포스트에서는 레이블 없는 데이터로부터 컴퓨터가 스스로 이미지의 특징을 학습하는 자기 지도 학습(Self-Supervised Learning) 방법론인 SimCLR의 핵심 아이디어, 프레임워크 구성 요소, 그리고 실험 결과를 쉽게 풀어 설명합니다.</description>
+      <description>YBIGTA 10/28 DS Session Presentation</description>
     </item>
     <item>
       <title>Segment Anything 논문 리뷰</title>
       <link>https://mookjsi.github.io/posts/paper-review-sam/</link>
       <pubDate>Tue, 30 Sep 2025 00:00:00 +0000</pubDate>
       <guid>https://mookjsi.github.io/posts/paper-review-sam/</guid>
-      <description>Meta AI의 &amp;lsquo;Segment Anything&amp;rsquo; 논문에 대한 심층 리뷰입니다. 이 포스트는 이미지 분할(Image Segmentation) 분야에 &amp;lsquo;파운데이션 모델&amp;rsquo;이라는 새로운 패러다임을 제시한 SAM(Segment Anything Model)의 핵심 개념, 즉 프롬프트 기반 분할 과업, 효율적인 모델 구조, 그리고 11억 개의 마스크를 포함하는 SA-1B 데이터셋 구축을 위한 데이터 엔진에 대해 상세히 분석합니다.</description>
+      <description>YBIGTA DS Session 09/10 Presentation</description>
     </item>
     <item>
       <title>DETR: End-to-End Object Detection with Transformers</title>
       <link>https://mookjsi.github.io/posts/paper-review-detr/</link>
       <pubDate>Tue, 23 Sep 2025 00:00:00 +0000</pubDate>
       <guid>https://mookjsi.github.io/posts/paper-review-detr/</guid>
-      <description>&amp;lsquo;End-to-End Object Detection with Transformers&amp;rsquo; 논문 심층 리뷰</description>
+      <description>YBIGTA DS 09/23 Session Presentation</description>
     </item>
     <item>
       <title>ResNet - 더 깊은 신경망을 위한 잔차 학습</title>
       <link>https://mookjsi.github.io/posts/paper-review-resnet/</link>
       <pubDate>Tue, 16 Sep 2025 00:00:00 +0000</pubDate>
       <guid>https://mookjsi.github.io/posts/paper-review-resnet/</guid>
-      <description>CVPR 2016에서 발표된 &amp;lsquo;Deep Residual Learning for Image Recognition&amp;rsquo; 논문에 대한 심층 리뷰입니다. 이 포스트에서는 딥러닝의 &amp;lsquo;성능 저하(Degradation)&amp;rsquo; 문제를 해결한 잔차 학습(Residual Learning)의 핵심 개념, 네트워크 구조, 그리고 실험 결과를 알기 쉽게 분석합니다.</description>
+      <description>YBIGTA 09/16 DS Session Presentation</description>
     </item>
     <item>
       <title>Simplifying Neural Nets by Discovering Flat Minima</title>
       <link>https://mookjsi.github.io/posts/paper-review-flatminima/</link>
       <pubDate>Thu, 15 May 2025 00:00:00 +0000</pubDate>
       <guid>https://mookjsi.github.io/posts/paper-review-flatminima/</guid>
-      <description>A detailed review of the classic 1994 paper by Hochreiter &amp;amp; Schmidhuber, &amp;lsquo;Simplifying Neural Nets by Discovering Flat Minima&amp;rsquo;. In this post, I break down the core concepts, the proposed algorithm, and the experimental results that demonstrate why seeking flat minima leads to better generalization.</description>
+      <description>05/15 ITML Lab meeting</description>
     </item>
   </channel>
 </rss>
