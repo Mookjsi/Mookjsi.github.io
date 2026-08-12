@@ -4,7 +4,7 @@
     <title>MookStudy</title>
     <link>https://mookjsi.github.io/</link>
     <description>Recent content on MookStudy</description>
-    <generator>Hugo -- 0.157.0</generator>
+    <generator>Hugo -- 0.164.0</generator>
     <language>en</language>
     <copyright>2025 Jungmook Kang</copyright>
     <lastBuildDate>Mon, 01 Dec 2025 00:00:00 +0000</lastBuildDate>
@@ -117,7 +117,7 @@
 &lt;li&gt;
 &lt;p&gt;&lt;strong&gt;Seoul National University&lt;/strong&gt;, Seoul, Korea (Mar 2026 -)&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;M.S in Statistics&lt;/li&gt;
+&lt;li&gt;Ph.D in Statistics&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;li&gt;
@@ -130,7 +130,8 @@
 &lt;hr&gt;
 &lt;h2 id=&#34;research-interests&#34;&gt;Research Interests&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;Statistical Machine Learning&lt;/li&gt;
+&lt;li&gt;Machine Learning&lt;/li&gt;
+&lt;li&gt;High Dimensional Data Analysis&lt;/li&gt;
 &lt;/ul&gt;</description>
     </item>
   </channel>
