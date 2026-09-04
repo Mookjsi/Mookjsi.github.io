@@ -1,27 +1,20 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Diffusion on Jungmook Kang</title>
-    <link>https://mookjsi.github.io/categories/diffusion/</link>
-    <description>Recent content in Diffusion on Jungmook Kang</description>
+    <title>Diffusion Model on Jungmook Kang</title>
+    <link>https://mookjsi.github.io/tags/diffusion-model/</link>
+    <description>Recent content in Diffusion Model on Jungmook Kang</description>
     <generator>Hugo -- 0.165.0</generator>
     <language>en</language>
     <copyright>2025 Jungmook Kang</copyright>
     <lastBuildDate>Thu, 03 Sep 2026 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://mookjsi.github.io/categories/diffusion/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://mookjsi.github.io/tags/diffusion-model/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Diffusion Model and Its Applications</title>
       <link>https://mookjsi.github.io/posts/diffusion2/</link>
       <pubDate>Thu, 03 Sep 2026 00:00:00 +0000</pubDate>
       <guid>https://mookjsi.github.io/posts/diffusion2/</guid>
       <description>StatLet seminar 09/04</description>
-    </item>
-    <item>
-      <title>Diffusion Models: From VAEs to DDPM Derivation</title>
-      <link>https://mookjsi.github.io/posts/diffusion/</link>
-      <pubDate>Tue, 25 Nov 2025 00:00:00 +0000</pubDate>
-      <guid>https://mookjsi.github.io/posts/diffusion/</guid>
-      <description>A presentation I gave at a YBIGTA. Mathematical derivation of DGM</description>
     </item>
   </channel>
 </rss>

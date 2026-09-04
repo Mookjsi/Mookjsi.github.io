@@ -7,8 +7,15 @@
     <generator>Hugo -- 0.165.0</generator>
     <language>en</language>
     <copyright>2025 Jungmook Kang</copyright>
-    <lastBuildDate>Mon, 01 Dec 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 03 Sep 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://mookjsi.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Diffusion Model and Its Applications</title>
+      <link>https://mookjsi.github.io/posts/diffusion2/</link>
+      <pubDate>Thu, 03 Sep 2026 00:00:00 +0000</pubDate>
+      <guid>https://mookjsi.github.io/posts/diffusion2/</guid>
+      <description>StatLet seminar 09/04</description>
+    </item>
     <item>
       <title>TimeFormer: Capturing Temporal Relationships of Deformable 3D Gaussians for Robust Reconstruction</title>
       <link>https://mookjsi.github.io/posts/paper-review-timeformer/</link>

@@ -7,8 +7,64 @@
     <generator>Hugo -- 0.165.0</generator>
     <language>en</language>
     <copyright>2025 Jungmook Kang</copyright>
-    <lastBuildDate>Mon, 01 Dec 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 03 Sep 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://mookjsi.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Conditional Sampling</title>
+      <link>https://mookjsi.github.io/tags/conditional-sampling/</link>
+      <pubDate>Thu, 03 Sep 2026 00:00:00 +0000</pubDate>
+      <guid>https://mookjsi.github.io/tags/conditional-sampling/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>DALL-E</title>
+      <link>https://mookjsi.github.io/tags/dall-e/</link>
+      <pubDate>Thu, 03 Sep 2026 00:00:00 +0000</pubDate>
+      <guid>https://mookjsi.github.io/tags/dall-e/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>DDIM</title>
+      <link>https://mookjsi.github.io/tags/ddim/</link>
+      <pubDate>Thu, 03 Sep 2026 00:00:00 +0000</pubDate>
+      <guid>https://mookjsi.github.io/tags/ddim/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>DDPM</title>
+      <link>https://mookjsi.github.io/tags/ddpm/</link>
+      <pubDate>Thu, 03 Sep 2026 00:00:00 +0000</pubDate>
+      <guid>https://mookjsi.github.io/tags/ddpm/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Diffusion Model</title>
+      <link>https://mookjsi.github.io/tags/diffusion-model/</link>
+      <pubDate>Thu, 03 Sep 2026 00:00:00 +0000</pubDate>
+      <guid>https://mookjsi.github.io/tags/diffusion-model/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Latent Diffusion</title>
+      <link>https://mookjsi.github.io/tags/latent-diffusion/</link>
+      <pubDate>Thu, 03 Sep 2026 00:00:00 +0000</pubDate>
+      <guid>https://mookjsi.github.io/tags/latent-diffusion/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>MovieGen</title>
+      <link>https://mookjsi.github.io/tags/moviegen/</link>
+      <pubDate>Thu, 03 Sep 2026 00:00:00 +0000</pubDate>
+      <guid>https://mookjsi.github.io/tags/moviegen/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Sora</title>
+      <link>https://mookjsi.github.io/tags/sora/</link>
+      <pubDate>Thu, 03 Sep 2026 00:00:00 +0000</pubDate>
+      <guid>https://mookjsi.github.io/tags/sora/</guid>
+      <description></description>
+    </item>
     <item>
       <title>3D Gaussian Splatting</title>
       <link>https://mookjsi.github.io/tags/3d-gaussian-splatting/</link>
@@ -56,13 +112,6 @@
       <link>https://mookjsi.github.io/tags/timeformer/</link>
       <pubDate>Mon, 01 Dec 2025 00:00:00 +0000</pubDate>
       <guid>https://mookjsi.github.io/tags/timeformer/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>DDPM</title>
-      <link>https://mookjsi.github.io/tags/ddpm/</link>
-      <pubDate>Tue, 25 Nov 2025 00:00:00 +0000</pubDate>
-      <guid>https://mookjsi.github.io/tags/ddpm/</guid>
       <description></description>
     </item>
     <item>

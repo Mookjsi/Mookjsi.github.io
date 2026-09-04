@@ -2,13 +2,49 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://mookjsi.github.io/tags/3d-gaussian-splatting/</loc>
-    <lastmod>2025-12-01T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://mookjsi.github.io/posts/</loc>
-    <lastmod>2025-12-01T00:00:00+00:00</lastmod>
+    <lastmod>2026-09-03T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://mookjsi.github.io/categories/</loc>
+    <lastmod>2026-09-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://mookjsi.github.io/tags/conditional-sampling/</loc>
+    <lastmod>2026-09-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://mookjsi.github.io/tags/dall-e/</loc>
+    <lastmod>2026-09-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://mookjsi.github.io/tags/ddim/</loc>
+    <lastmod>2026-09-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://mookjsi.github.io/tags/ddpm/</loc>
+    <lastmod>2026-09-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://mookjsi.github.io/categories/diffusion/</loc>
+    <lastmod>2026-09-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://mookjsi.github.io/tags/diffusion-model/</loc>
+    <lastmod>2026-09-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://mookjsi.github.io/posts/diffusion2/</loc>
+    <lastmod>2026-09-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://mookjsi.github.io/</loc>
+    <lastmod>2026-09-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://mookjsi.github.io/tags/latent-diffusion/</loc>
+    <lastmod>2026-09-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://mookjsi.github.io/tags/moviegen/</loc>
+    <lastmod>2026-09-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://mookjsi.github.io/tags/sora/</loc>
+    <lastmod>2026-09-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://mookjsi.github.io/tags/</loc>
+    <lastmod>2026-09-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://mookjsi.github.io/tags/3d-gaussian-splatting/</loc>
     <lastmod>2025-12-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://mookjsi.github.io/tags/computer-vision/</loc>
@@ -23,13 +59,7 @@
     <loc>https://mookjsi.github.io/tags/iccv-2025/</loc>
     <lastmod>2025-12-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://mookjsi.github.io/</loc>
-    <lastmod>2025-12-01T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://mookjsi.github.io/tags/paper-review/</loc>
-    <lastmod>2025-12-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://mookjsi.github.io/tags/</loc>
     <lastmod>2025-12-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://mookjsi.github.io/tags/temporal-attention/</loc>
@@ -41,16 +71,10 @@
     <loc>https://mookjsi.github.io/posts/paper-review-timeformer/</loc>
     <lastmod>2025-12-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://mookjsi.github.io/tags/ddpm/</loc>
-    <lastmod>2025-11-25T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://mookjsi.github.io/tags/deep-learning/</loc>
     <lastmod>2025-11-25T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://mookjsi.github.io/tags/deepmind/</loc>
-    <lastmod>2025-11-25T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://mookjsi.github.io/categories/diffusion/</loc>
     <lastmod>2025-11-25T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://mookjsi.github.io/tags/diffusion-models/</loc>
